@@ -1,8 +1,8 @@
-- 👋 Hello, I’m @xi-orionis
-- ⚔ I’m interested in supermassive hyperjihad
-- 🌱 I’m currently learning Akkadian
-- 🧠 I’m looking to collaborate on the Noosphere
-- 📫 How to reach me: Carrier Pidgeon
+- 👋 Hello! I’m @xi-orionis.
+- ⚔ I’m interested in decentralized cyberjihād.
+- 🌱 I’m currently learning Akkadian, Arabic, and Classical Persian.
+- 🧠 I’m looking to collaborate on the Noosphere.
+- 📫 How to reach me: Carrier Pidgeon, Astral Projection, or Telepathy.
 
 <!---
 xi-orionis/xi-orionis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
