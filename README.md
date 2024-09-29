@@ -2,7 +2,7 @@
 - ⚔ I’m interested in decentralized cyberjihād.
 - 🌱 I’m currently learning Akkadian, Arabic, and Classical Persian.
 - 🧠 I’m looking to collaborate on the Noosphere.
-- 📫 How to reach me: Carrier Pidgeon, Astral Projection, or Telepathy.
+- 📫 How to reach me: Carrier Pidgeon
 
 <!---
 xi-orionis/xi-orionis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
